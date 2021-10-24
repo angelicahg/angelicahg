@@ -1,14 +1,14 @@
 conslole.log("HELLO WORD 👋 !!!")
 
 
-Currently:
+const Angelica = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python,],
+  tools: [React, Node,MongoDB,SQL],
+  Me: {
+                        I.am: "Developer Full-Stack",
+                        Currently: "learning new tools",
+                        Fun-fact: "I love coffee"
+                      },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: herrerangelik@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

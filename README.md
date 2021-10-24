@@ -1,7 +1,7 @@
 conslole.log("HELLO WORD 👋 !!!")
 
 
-const Angelica = {
+.const Angelica = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python,],
   tools: [React, Node,MongoDB,SQL],

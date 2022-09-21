@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 Word !!</h2>
+<h2> Hello !!</h2>
 
 <div align="center" width="50">
 
